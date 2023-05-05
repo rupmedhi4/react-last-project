@@ -1,0 +1,23 @@
+.form{
+    background-color: rgb(92, 94, 94);
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+    padding: 1rem;
+    
+}
+
+.form label{
+    display: block;
+    color: white;
+    font-weight: bold;
+}
+
+.form select{
+    font-weight: bold;
+    width: 100%;
+}
+.form input{
+    font-weight: bold;
+    width: 99%;
+}
